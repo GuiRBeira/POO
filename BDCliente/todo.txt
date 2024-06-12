@@ -1,0 +1,3 @@
+ajustar o codigo para conectar os sinais dos botoes com o resto do aplicativo;
+completar a interface gráfica de modo que ela possa incluir as avaliacoes dos usuarios;
+fazer isso antes de esquecer da existencia desse projeto
